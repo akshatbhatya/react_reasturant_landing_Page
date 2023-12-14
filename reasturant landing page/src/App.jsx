@@ -1,6 +1,7 @@
 import './App.css'
 import { Footer, Header, Navbar } from './Components'
-import { Chef, FindUs, Gallery, Intro, Laurels, SpecialMenu, AboutUs } from './Container'
+import { Chef, FindUs, Gallery, Intro, Laurels, SpecialMenu } from './Container'
+import AboutUs from './Container/About Us/AboutUs'
 
 function App() {
 
