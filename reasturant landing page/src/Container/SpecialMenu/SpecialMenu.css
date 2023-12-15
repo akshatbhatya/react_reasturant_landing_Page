@@ -1,0 +1,51 @@
+.app__specialMenu {
+    background: var(--color-black);
+
+}
+
+.app_specialmenu-menu1 h1 {
+    color: var(--FFFFFF, #FFF);
+    text-align: center;
+    font-variant-numeric: lining-nums tabular-nums;
+    font-family: Cormorant Upright;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    letter-spacing: 1.8px;
+    text-transform: capitalize;
+}
+
+.app__specialmenu-image img {
+    height: 500px;
+
+}
+
+.app_specialmenu-menu1 {
+    padding: 0px 2rem;
+}
+
+.app__specialmenu-btn {
+    text-align: center;
+    margin: 0px 0px 50px 0px;
+    padding-bottom: 70px;
+}
+
+.app__specialmenu-btn button {
+    color: var(--0C0C0C, #0C0C0C);
+    font-family: Cormorant Upright;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 175%;
+    letter-spacing: 0.64px;
+    outline: none;
+    border: none;
+    padding: 8px 32px;
+    background: var(--DCCA87, #DCCA87);
+    cursor: pointer;
+}
+
+.app__specialmenu-container-menu{
+    margin-top: -1rem;
+}

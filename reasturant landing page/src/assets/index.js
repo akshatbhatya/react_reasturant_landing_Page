@@ -5,5 +5,6 @@ import spoon from "./spoon.png";
 import welcome from "./welcome.png";
 import knife from "./knife.png";
 import G from "./G.png";
+import Menu from "./menu.png"
 
-export { gericht, award01, award02, spoon, welcome, knife,G };
+export { gericht, award01, award02, spoon, welcome, knife,G,Menu};
