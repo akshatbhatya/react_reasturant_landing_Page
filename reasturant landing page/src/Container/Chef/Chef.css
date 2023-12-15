@@ -1,6 +1,79 @@
-.app__chef-container{
+.app__chef-container {
     background-image: url('src/assets/bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    display: flex;
+    gap: 50px;
+
+
+}
+
+.app__chef-content {
+    padding-top: 75px;
+}
+
+.image-section img {
+    width: 665px;
+    height: 680px;
+    flex-shrink: 0;
+}
+
+.app__chef-content h1 {
+    color: var(--DCCA87, #DCCA87);
+    font-variant-numeric: lining-nums tabular-nums;
+    font-family: Cormorant Upright;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    letter-spacing: 1.92px;
+    text-transform: capitalize;
+}
+
+.app__chef-content p {
+    color: var(--AAAAAA, #AAA);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 175%;
+    letter-spacing: 0.64px;
+}
+
+.app__chef-contentofimgandpara {
+    display: flex;
+}
+
+.app__chef-name h1 {
+    color: var(--DCCA87, #DCCA87);
+    font-variant-numeric: lining-nums tabular-nums;
+    font-family: Cormorant Upright;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    letter-spacing: 1.28px;
+    text-transform: capitalize;
+}
+
+.app__chef-name p {
+    color: var(--AAAAAA, #AAA);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 175%;
+    letter-spacing: 0.64px;
+}
+
+.signature p {
+    color: var(--AAAAAA, #AAA);
+    font-family: Bestermind;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    /* 83.2px */
+    letter-spacing: 2.56px;
 }
