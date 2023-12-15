@@ -5,9 +5,22 @@ import spoon from "./spoon.png";
 import welcome from "./welcome.png";
 import knife from "./knife.png";
 import G from "./G.png";
-import Menu from "./menu.png"
-import ChefPic from "./chef.png"
+import Menu from "./menu.png";
+import ChefPic from "./chef.png";
+import Meal from "./meal.mp4";
 
-import Quote from "./quote.png"
+import Quote from "./quote.png";
 
-export { gericht, award01, award02, spoon, welcome, knife,G,Menu,ChefPic,Quote};
+export {
+  gericht,
+  award01,
+  award02,
+  spoon,
+  welcome,
+  knife,
+  G,
+  Menu,
+  ChefPic,
+  Quote,
+  Meal,
+};

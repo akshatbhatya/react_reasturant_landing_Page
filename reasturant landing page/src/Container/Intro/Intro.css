@@ -1,0 +1,5 @@
+.app__into-container video {
+    height: 768px;
+    object-fit: cover;
+}
+
