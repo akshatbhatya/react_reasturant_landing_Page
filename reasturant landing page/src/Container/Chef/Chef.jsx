@@ -4,7 +4,9 @@ import "./Chef.css"
 
 const Chef = () => {
   return (
-    <div>
+    <div className='app__chef-container flex__center section__padding'>
+
+      <h1>ddfgdfhe</h1>
       
     </div>
   )
