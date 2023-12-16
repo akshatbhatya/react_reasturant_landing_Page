@@ -3,3 +3,13 @@
     object-fit: cover;
 }
 
+.app__into-video {
+    position: relative;
+}
+
+.app__intro--videobtn {
+    position: absolute;
+    bottom: 50%;
+    text-align: center;
+    right: 50%;
+}
