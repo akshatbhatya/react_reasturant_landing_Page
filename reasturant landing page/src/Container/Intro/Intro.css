@@ -5,6 +5,7 @@
 
 .app__into-video {
     position: relative;
+    background: #000;
 }
 
 .app__intro--videobtn {

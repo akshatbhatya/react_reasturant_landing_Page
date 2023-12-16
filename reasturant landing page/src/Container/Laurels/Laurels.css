@@ -1,0 +1,26 @@
+.app__wrapper-img img {
+    width: 550px;
+
+}
+
+.app__wrapper-info h1 {
+    color: var(--DCCA87, #DCCA87);
+    font-variant-numeric: lining-nums tabular-nums;
+
+    /* H2 64px Cormorant Upright */
+    font-family: Cormorant Upright;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    /* 83.2px */
+    letter-spacing: 1.92px;
+    text-transform: capitalize;
+
+}
+
+.app__laurels__award__card{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 50px;
+}

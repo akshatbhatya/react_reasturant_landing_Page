@@ -1,0 +1,31 @@
+.app__container {
+    display: flex;
+    gap: 32px;
+}
+
+.app__award-content h1 {
+    color: var(--DCCA87, #DCCA87);
+    font-variant-numeric: lining-nums tabular-nums;
+    font-family: Cormorant Upright;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    letter-spacing: 0.92px;
+    text-transform: capitalize;
+}
+
+.app__paragraph{
+    color: var(--AAAAAA, #AAA);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 175%;
+    letter-spacing: 0.64px;
+}
+
+.app__Award__container-img img {
+    width: 79px;
+    height: 79px;
+}
