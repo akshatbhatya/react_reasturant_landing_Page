@@ -11,6 +11,7 @@ import Menu from "./menu.png";
 import ChefPic from "./chef.png";
 import Meal from "./meal.mp4";
 import Laurel from "./laurels.png";
+import Find from "./findus.png"
 
 
 import Quote from "./quote.png";
@@ -30,4 +31,5 @@ export {
   Laurel,
   award03,
   award05,
+  Find,
 };

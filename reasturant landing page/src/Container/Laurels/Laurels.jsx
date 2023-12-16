@@ -1,7 +1,7 @@
 import React from 'react'
 
 import "./Laurels.css"
-import { spoon, Laurel, award02,award01,award03,award05 } from "./../../assets/index"
+import { spoon, Laurel, award02, award01, award03, award05 } from "./../../assets/index"
 
 import SubHeading from "./../../Components/SubHeading/SubHeading"
 import AwardCard from '../AwardCard/AwardCard'
@@ -17,11 +17,11 @@ const Laurels = () => {
 
         <div className="app__laurels__award__card">
           <AwardCard title={"Bib Gourmond"} para={"Lorem ipsum dolor sit amet, consectetur."} image={award02} />
-          
+
           <AwardCard title={"Bib Gourmond"} para={"Lorem ipsum dolor sit amet, consectetur."} image={award01} />
-          
+
           <AwardCard title={"Bib Gourmond"} para={"Lorem ipsum dolor sit amet, consectetur."} image={award05} />
-          
+
           <AwardCard title={"Bib Gourmond"} para={"Lorem ipsum dolor sit amet, consectetur."} image={award03} />
 
         </div>

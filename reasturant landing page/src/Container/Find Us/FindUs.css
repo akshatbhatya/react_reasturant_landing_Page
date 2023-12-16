@@ -1,0 +1,56 @@
+.app__findus-container {
+    background: #000;
+    display: flex;
+    justify-content: center;
+    gap: 280px;
+}
+
+.app__findus-container h1 {
+    color: var(--DCCA87, #DCCA87);
+    font-family: Cormorant Upright;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    /* 83.2px */
+    letter-spacing: 2.56px;
+    text-transform: capitalize;
+}
+
+.app__findus-container p {
+    color: var(--AAAAAA, #AAA);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 175%;
+    letter-spacing: 0.64px;
+}
+
+
+.app__findus-container h3 {
+    color: var(--DCCA87, #DCCA87);
+    font-variant-numeric: lining-nums tabular-nums;
+    font-family: Cormorant Upright;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    letter-spacing: 0.92px;
+    text-transform: capitalize;
+}
+
+.time1,
+.time2 {
+    color: var(--FFFFFF, #FFF);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 175%;
+    letter-spacing: 0.64px;
+}
+
+.app__findus-content-2 img {
+    width: 550px;
+}

@@ -19,8 +19,8 @@
 
 }
 
-.app__laurels__award__card{
+.app__laurels__award__card {
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 50px;
 }

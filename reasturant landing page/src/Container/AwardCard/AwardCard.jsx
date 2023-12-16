@@ -1,7 +1,7 @@
 import React from 'react'
 import "./AwardCard.css"
 
-const AwardCard = ({image,title,para}) => {
+const AwardCard = ({ image, title, para }) => {
   return (
     <div className='app__container'>
       <div className="app__Award__container-img">
